@@ -1,11 +1,11 @@
 {
-    "name": "",
+    "name": "Lab8-Starter",
     "short_name": "",
     "description": "",
     "start_url": "",
-    "display": "",
-    "background_color": "",
-    "theme_color": "",
+    "display": "standalone",
+    "background_color": "red",
+    "theme_color": "blue",
     "icons": [
       {
         "src": "/assets/images/icons/icon-192x192.png",
